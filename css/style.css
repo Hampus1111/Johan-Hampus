@@ -17,7 +17,7 @@ grid-template-areas:
 }
 header{
 grid-area:he;
-background-color: aqua;
+background-color: lightslategray;
 }
 nav{
 grid-area: na;
@@ -29,7 +29,22 @@ background-color: aquamarine;
 }
 main{
 grid-area: ma;
-background-color: rgb(255, 0, 60);
+background-color: lightslategray;
+
+    img{
+      height: 200px;
+      width: 300px;
+    margin-left: 50px;
+      margin-bottom: 75px;
+    }
+}
+textarea{
+width: 300px;
+height: 100px;
+position: relative;
+right: 485px;
+
+
 }
 footer{
 grid-area: fo;
@@ -45,20 +60,6 @@ a{
 
 margin-left: 100 px;    
 
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
