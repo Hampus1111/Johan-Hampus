@@ -48,5 +48,10 @@ right: 485px;
 }
 footer{
 grid-area: fo;
-background-color: ghostwhite;
+background-color:lightslategray;
 } 
+a{
+
+ margin-left: 40px;
+  
+}
