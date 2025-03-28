@@ -31,12 +31,13 @@ main{
 grid-area: ma;
 background-color: lightslategray;
 
-    img{
-      height: 200px;
-      width: 300px;
-    margin-left: 50px;
-      margin-bottom: 75px;
-    }
+   
+}
+img{
+  height: 200px;
+  width: 300px;
+margin-left: 50px;
+  margin-bottom: 75px;
 }
 textarea{
 width: 300px;
@@ -59,6 +60,25 @@ background-color: ghostwhite;
 a{                                                           
 
 margin-left: 100 px;    
+
+}
+
+
+/* ------------dobbar------------- */
+
+.dubbar{
+  height:   150px;
+  width: 180px;
+  margin-top: 50px;
+ 
+
+}
+#textBox {
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: 90px;
 
 }
 
