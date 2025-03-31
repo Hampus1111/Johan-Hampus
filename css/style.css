@@ -1,5 +1,5 @@
 body{
-  color: black;
+ 
   height: 100vh;
   width: 100vw;  
 } 
@@ -17,19 +17,19 @@ grid-template-areas:
 }
 header{
 grid-area:he;
-background-color: lightslategray;
+background-color: ghostwhite;
 }
 nav{
 grid-area: na;
-background-color: blue;
+background-color: ghostwhite;
 }
 aside{
 grid-area: as;
-background-color: aquamarine;
+background-color:darkgreen;
 }
 main{
 grid-area: ma;
-background-color: lightslategray;
+background-color:darkgreen;
 
    
 }
@@ -49,7 +49,7 @@ right: 485px;
 }
 footer{
 grid-area: fo;
-background-color: ghostwhite;
+background-color:ghostwhite;
 }  
 .Rubrik.container {
   
@@ -61,6 +61,12 @@ a{
 
 margin-left: 100 px;    
 
+}
+
+#Fotbollsplan{
+
+  height: 450px;
+  width: 204px;
 }
 
 
@@ -82,4 +88,6 @@ margin-left: 100 px;
 
 }
 
+
+/*--------------Inomhusskor-----------*/
 
