@@ -1,5 +1,5 @@
 body{
-  color: black;
+ 
   height: 100vh;
   width: 100vw;  
 } 
@@ -17,26 +17,27 @@ grid-template-areas:
 }
 header{
 grid-area:he;
-background-color: lightslategray;
+background-color: ghostwhite;
 }
 nav{
 grid-area: na;
-background-color: blue;
+background-color: ghostwhite;
 }
 aside{
 grid-area: as;
-background-color: aquamarine;
+background-color:darkgreen;
 }
 main{
 grid-area: ma;
-background-color: lightslategray;
+background-color:darkgreen;
 
-    img{
-      height: 200px;
-      width: 300px;
-    margin-left: 50px;
-      margin-bottom: 75px;
-    }
+   
+}
+img{
+  height: 200px;
+  width: 300px;
+margin-left: 50px;
+  margin-bottom: 75px;
 }
 textarea{
 width: 300px;
@@ -48,7 +49,7 @@ right: 485px;
 }
 footer{
 grid-area: fo;
-background-color: ghostwhite;
+background-color:ghostwhite;
 }  
 .Rubrik.container {
   
@@ -62,5 +63,32 @@ margin-left: 100 px;
 
 }
 
+#Fotbollsplan{
+
+  height: 450px;
+  width: 204px;
+}
+
+
+/* ------------dobbar------------- */
+
+.dubbar{
+  height:   150px;
+  width: 180px;
+  margin-top: 50px;
+ 
+
+}
+#textBox {
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: 90px;
+
+}
+
+
+/*--------------Inomhusskor-----------*/
 
 /*-----------grusskor
